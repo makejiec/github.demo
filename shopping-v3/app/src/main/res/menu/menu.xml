@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/scan_local_music"
+        android:icon="@mipmap/kefu"
+        android:orderInCategory="100"
+        android:title="开启小黑群"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/select_sort_way"
+        android:icon="@mipmap/faxian"
+        android:orderInCategory="100"
+        android:title="发起聊天"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/get_cover_lyrics"
+        android:icon="@mipmap/tianjiahaoyou"
+        android:orderInCategory="100"
+        android:title="添加好友"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/imporve_tone_quality"
+        android:icon="@mipmap/saoyisao"
+        android:orderInCategory="100"
+        android:title="扫一扫"
+        app:showAsAction="never"
+        />
+</menu>
+
